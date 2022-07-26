@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\swinAdventure\bin\Debug\net5.0\swinAdventure.deps.json
+C:\Users\admin\source\repos\swinAdventure\bin\Debug\net5.0\swinAdventure.dll
+C:\Users\admin\source\repos\swinAdventure\bin\Debug\net5.0\ref\swinAdventure.dll
+C:\Users\admin\source\repos\swinAdventure\bin\Debug\net5.0\swinAdventure.pdb
+C:\Users\admin\source\repos\swinAdventure\obj\Debug\net5.0\swinAdventure.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\swinAdventure\obj\Debug\net5.0\swinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\swinAdventure\obj\Debug\net5.0\swinAdventure.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\swinAdventure\obj\Debug\net5.0\swinAdventure.AssemblyInfo.cs
+C:\Users\admin\source\repos\swinAdventure\obj\Debug\net5.0\swinAdventure.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\swinAdventure\obj\Debug\net5.0\swinAdventure.dll
+C:\Users\admin\source\repos\swinAdventure\obj\Debug\net5.0\ref\swinAdventure.dll
+C:\Users\admin\source\repos\swinAdventure\obj\Debug\net5.0\swinAdventure.pdb
+C:\Users\admin\source\repos\swinAdventure\bin\Debug\net5.0\swinAdventure.exe
+C:\Users\admin\source\repos\swinAdventure\bin\Debug\net5.0\swinAdventure.runtimeconfig.json
+C:\Users\admin\source\repos\swinAdventure\bin\Debug\net5.0\swinAdventure.runtimeconfig.dev.json
+C:\Users\admin\source\repos\swinAdventure\obj\Debug\net5.0\swinAdventure.genruntimeconfig.cache
